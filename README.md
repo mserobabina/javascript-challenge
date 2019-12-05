@@ -1,5 +1,5 @@
 # JavaScript and DOM Manipulation
-writing a code which creats a table dynamically based upon a dataset provided.
+Writing a code which creats a table dynamically based upon a dataset provided.
 
 ### Automatic Table and Date Search
 - Creating a basic HTML web page
