@@ -10,5 +10,5 @@ Writing a code which creats a table dynamically based upon a dataset provided.
 ### Multiple Search Categories
 - Writing JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns: date/time, city
 
-![Test Image](https://github.com/mserobabina/javascript-challenge/blob/master/UFO-level-1/ufo.PNG)
+![Test Image](https://github.com/mserobabina/javascript-challenge/blob/master/UFO-level-1/ufo.PNG) 
 
