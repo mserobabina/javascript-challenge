@@ -12,3 +12,4 @@ Writing a code which creats a table dynamically based upon a dataset provided.
 
 ![Test Image](https://github.com/mserobabina/javascript-challenge/blob/master/UFO-level-1/ufo.PNG) 
 
+ 
